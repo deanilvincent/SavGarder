@@ -11,7 +11,7 @@ With SavGarder - A free database back up tool, you have a right to back up your 
 
 <img src="http://i.imgur.com/16kMQ27.png">
 
-3.) Click "Back Up" and the save file dialog will appear and click save when you are done.
+3.) Click "Back Up Now" and the save file dialog will appear and click save when you are done.
 
 4.) Voila! now you have a back up SQL file of your database.
 
