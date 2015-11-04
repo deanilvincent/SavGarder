@@ -8,7 +8,7 @@ With SavGarder - A free database back up tool, you have a right to back up your 
 1. Download the zip installer file and install it on your PC. 
 2. When you are done installing the application, you can now open it(mostly after installing, its automatically open the application) and type your host/ip, database name, database username, database password and the name of your database that you want to back up.
 
-<center><img src="http://i.imgur.com/16kMQ27.png"></center>
+<img src="http://i.imgur.com/16kMQ27.png" align="center">
 
 3. Click "Back Up" and the save file dialog will appear and click save when you are done.
 4. Voila! now you have a back up SQL file of your database.
