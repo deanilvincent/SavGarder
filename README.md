@@ -8,14 +8,14 @@ With SavGarder - A free database back up tool, you have a right to back up your 
 1. Download the zip installer file and install it on your PC. 
 2. When you are done installing the application, you can now open it(mostly after installing, its automatically open the application) and type your host/ip, database name, database username, database password and the name of your database that you want to back up.
 
-![ title ](http://i.imgur.com/16kMQ27.png)
+<img src="http://i.imgur.com/16kMQ27.png">
 
 3. Click "Back Up" and the save file dialog will appear and click save when you are done.
 4. Voila! now you have a back up SQL file of your database.
 
 For cloud back up, I've installed Onedrive and synced it on my Personal Computer. Here's the link -> https://onedrive.live.com/about/en-ph/download/ install it on your Personal Computer. 
 
-<p style="text-align: center"><img src="http://i.imgur.com/0VVdE6N.png"></p>
+<img src="http://i.imgur.com/0VVdE6N.png">
 
 So, everytime you want to save your back up sql file online, open you OneDrive folder and just save there. :)
 
