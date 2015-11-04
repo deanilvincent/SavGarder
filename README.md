@@ -9,7 +9,7 @@ With SavGarder - A free database back up tool, you have a right to back up your 
 
 2.) When you are done installing the application, you can now open it(mostly after installing, its automatically open the application) and type your host/ip, database name, database username, database password and the name of your database that you want to back up.
 
-<img src="http://i.imgur.com/16kMQ27.png">
+<img src="http://i.imgur.com/akn4XiW.png">
 
 3.) Click "Back Up Now" and the save file dialog will appear. Click save when you are done.
 
