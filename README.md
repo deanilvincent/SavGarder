@@ -20,7 +20,7 @@ Here's the link -> https://onedrive.live.com/about/en-ph/download/ install it on
 
 <img src="http://i.imgur.com/0VVdE6N.png">
 
-So, everytime you want to save your back up sql file online, open your OneDrive folder and just save there. :)
+So, everytime you want to save your back up sql file online, open your OneDrive folder and just save there.
 
 Please share this easy way application to back up your database. :)
 
